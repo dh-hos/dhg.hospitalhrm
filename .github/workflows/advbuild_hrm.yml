@@ -1,0 +1,20 @@
+name: Checkout then build AdvancedInstaller
+on: [push]
+jobs:
+   hello_world_job:
+      runs-on: docker-org-01
+      env:
+         GITHUBREPOSITORYSECRETSDEFAULTRTDB: ${{ secrets.GITHUBREPOSITORYSECRETSDEFAULTRTDB }}
+         URL_RCLONE_BASE64: ${{ secrets.URL_RCLONE_BASE64 }}
+      name: Checkout then build AdvancedInstaller
+      steps:
+         - name: Check GITHUBREPOSITORYSECRETSDEFAULTRTDB
+           run: echo "$env:GITHUBREPOSITORYSECRETSDEFAULTRTDB"
+         - name: Check URL_RCLONE_BASE64
+           run: echo "$env:URL_RCLONE_BASE64"
+         - name: Checkout - pull git repo
+           uses: actions/checkout@v2
+
+         - name: Powershell get data to build
+           run: .\dist\advbuild_hrm.ps1
+           shell: powershell
