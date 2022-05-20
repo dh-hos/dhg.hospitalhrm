@@ -170,7 +170,7 @@ if ($Config.IsRunRcUpload) {
                 $Config.RcloneArgumentList += ' --config "' + $Config.PathRcloneConfig + '"'
                 $Config.RcloneArgumentList += ' --auto-confirm'
                 Write-Host ('Rclone upload: {0}=>{1}' -f $Config.PathAdvancedInstallerOutputFileZip, $uploadName)
-                Start-Process -WindowStyle Hidden -Wait -FilePath $Config.PathRclone -ArgumentList $Config.RcloneArgumentList
+                # Start-Process -WindowStyle Hidden -Wait -FilePath $Config.PathRclone -ArgumentList $Config.RcloneArgumentList
             }
         }  
     }
