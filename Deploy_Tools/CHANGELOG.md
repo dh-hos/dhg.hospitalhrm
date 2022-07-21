@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0721.1]()
+
+-  🐛: Bổ sung license mabvbh=77150
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2
+
 ##### [v3.22.0704.1]()
 
 -  #️⃣: Tab Lương của nhân viên, khi thêm hệ số lương mới, bỏ check Đang hưởng hệ số cũ nhưng lưu lại, nó vẫn còn check Đan hưởng
