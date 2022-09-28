@@ -7,3 +7,6 @@
 
 -  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2 [OK]
 -  🐛: Bổ sung license mabvbh=77150 [OK]
+
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/4 [OK]
+-  ✨: Cập nhật bản quyền đối với Mã BV 87190 - BỆNH VIỆN DA LIỄU ĐỒNG THÁP [OK]
