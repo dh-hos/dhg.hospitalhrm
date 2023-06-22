@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0622.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/5>
+- ✨: Bổ sung chức năng bảng kê Chi phí phẫu thuật đối với mabv=95006 chỉ lấy những toa vật tư không tính phí được sử dụng cho 1 CLS cụ thể
+
 ##### [v3.23.0104.1]()
 
 -  âœ¨:
