@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0704.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/6>
+- 🐛: Fix Lỗi - Không cài đặt được module service khi máy có cài module HRM
+
 ##### [v3.23.0704.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/6>
