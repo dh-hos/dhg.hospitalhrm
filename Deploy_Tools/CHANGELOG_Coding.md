@@ -13,3 +13,6 @@
 >
 - ✨: Bổ sung chức năng bảng kê Chi phí phẫu thuật đối với mabv=95006 chỉ lấy những toa vật tư không tính phí được sử dụng cho 1 CLS cụ thể [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/5> [OK]
+>
+- 🐛: Fix Lỗi - Không cài đặt được module service khi máy có cài module HRM [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/6> [OK]
