@@ -16,3 +16,6 @@
 >
 - 🐛: Fix Lỗi - Không cài đặt được module service khi máy có cài module HRM [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/6> [OK]
+>
+- 🐛: Fix Lỗi - Các nút không tác dụng [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/7> [OK]

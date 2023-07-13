@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0713.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/7>
+- 🐛: Fix Lỗi - Các nút không tác dụng
+
 ##### [v3.23.0704.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/6>
