@@ -4,7 +4,7 @@
 
 -  🐛: https://github.com/dh-hos/dhg.hrm/issues/2 [OK]
 -  #️⃣: Tab Lương của nhân viên, khi thêm hệ số lương mới, bỏ check Đang hưởng hệ số cũ nhưng lưu lại, nó vẫn còn check Đan hưởng [OK]
-
+>
 - #️⃣: https://github.com/dh-hos/DH.HIS/issues/2 [OK]
 - 🐛: Bổ sung license mabvbh=77150 [OK]
 >
@@ -19,3 +19,7 @@
 >
 - 🐛: Fix Lỗi - Các nút không tác dụng [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/7> [OK]
+>
+- 🐛: Thêm chức năng ẩn hiện menu theo cấu hình [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/HRM/Hau-cau-hinh-menu.md) [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/191> [OK]
+

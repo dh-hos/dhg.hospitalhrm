@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1203.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/191>
+- 🐛: Thêm chức năng ẩn hiện menu theo cấu hình [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/HRM/Hau-cau-hinh-menu.md)
+
 ##### [v3.23.0713.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalhrm/issues/7>
